@@ -4,6 +4,9 @@ Aqui fazemos o cadastro de possíveis locais para Meetups. Caso queira propor um
 
 TODO: Tranformar isso em um YAML para gerar a página e etc etc.
 
+### QuintoAndar
+* Endereco: Rua Girassol, 555
+* Contato: Fernando Barbosa
 
 ### Stone Pagamentos
 * Endereço: Rua Fidêncio Ramos, 308
